@@ -1,0 +1,66 @@
+
+body { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
+}
+
+.background{
+    background-image: url(../Images/IMG_9483.jpg);
+    background-attachment: fixed;
+}
+
+header h1{
+    text-align: center;
+    margin: 30px;
+}
+
+.list{
+    text-align: center;
+    margin: 30px;
+}
+
+input{
+    text-align: center;
+    margin: 6px;
+}
+
+button, form, select{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    margin: 30px;
+}
+
+img{
+    text-align: center; 
+}
+
+select{
+    text-align: center;
+    margin: 6px;
+}
+
+form #button{
+    text-align: center;
+    margin: 6px;
+}
+
+form #button{
+    text-align: center;
+    margin: 6px;
+}
+
+form #input02{
+    text-align: center;
+    margin: 6px;
+    width: 120px;
+}
+
+table th{
+    width: 120px;
+    border-color: black;
+}
+
+.table > thead > tr > th{
+    background-color: rgb(3, 3, 3);
+}
