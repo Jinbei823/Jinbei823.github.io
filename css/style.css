@@ -22,7 +22,7 @@ body {
 
 #page {
   position: relative;
-  overflow-x: hidden;
+  overflow: hidden;
   width: 100%;
   height: 100%;
   -webkit-transition: 0.5s;
@@ -515,7 +515,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 #gtco-about .heading .subtle-text {
-  position: absolute;
+  position: fixed;
   bottom: -1.6em;
   left: 0;
   text-transform: uppercase;
@@ -529,7 +529,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 #gtco-skills .heading .subtle-text {
-  position: absolute;
+  position: fixed;
   bottom: -1.6em;
   left: 0;
   text-transform: uppercase;
@@ -567,7 +567,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 #gtco-blog .heading .subtle-text {
-  position: absolute;
+  position: fixed;
   bottom: -1.6em;
   left: 0;
   text-transform: uppercase;
@@ -609,7 +609,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 #gtco-contact .heading .subtle-text {
-  position: absolute;
+  position: fixed;
   bottom: -1em;
   left: 0;
   text-transform: uppercase;
