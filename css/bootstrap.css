@@ -365,6 +365,40 @@ img {
   vertical-align: middle;
 }
 
+img.front{
+width: 35%;
+height:40%;
+margin-bottom: 20px;
+}
+
+img.react{
+  width: 130px;
+  height: 90px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+img.swift{
+  width: 95px;
+  height: 90px;
+  margin-top: 35px;
+  margin-bottom: 20px;
+}
+
+img.python{
+  width: 20%;
+  height:20%;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+img.c{
+  width: 25%;
+  height:40%;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
 .img-responsive {
   display: block;
   max-width: 100%;
