@@ -1,0 +1,215 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+html	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^<html>$/;"	function	line:2
+head	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<head>$/;"	function	line:3
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta charset="utf-8">$/;"	function	line:4
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:5
+title	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<title>Jimbe &mdash;Creation makes the world well<\/title>$/;"	function	line:6
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:7
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta name="description" content="Creation makes the world well" \/>$/;"	function	line:8
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta name="keywords" content="website, html5, css, web application, javascript, PHP, css3, Myanmar, responsive" \/>$/;"	function	line:9
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta name="author" content="Jimbe" \/>$/;"	function	line:10
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta property="og:title" content=""\/>$/;"	function	line:13
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta property="og:image" content=""\/>$/;"	function	line:14
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta property="og:url" content=""\/>$/;"	function	line:15
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta property="og:site_name" content=""\/>$/;"	function	line:16
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta property="og:description" content=""\/>$/;"	function	line:17
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta name="twitter:title" content="" \/>$/;"	function	line:18
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta name="twitter:image" content="" \/>$/;"	function	line:19
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta name="twitter:url" content="" \/>$/;"	function	line:20
+meta	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<meta name="twitter:card" content="" \/>$/;"	function	line:21
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^  <link rel="shortcut icon" href="icon\/favicon.ico">$/;"	function	line:24
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<link rel="stylesheet" href="css\/animate.css">$/;"	function	line:27
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<link rel="stylesheet" href="css\/icomoon.css">$/;"	function	line:29
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<link rel="stylesheet" href="css\/themify-icons.css">$/;"	function	line:31
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<link rel="stylesheet" href="css\/bootstrap.css">$/;"	function	line:33
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<link rel="stylesheet" href="css\/magnific-popup.css">$/;"	function	line:35
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<link rel="stylesheet" href="css\/owl.carousel.min.css">$/;"	function	line:37
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<link rel="stylesheet" href="css\/owl.theme.default.min.css">$/;"	function	line:38
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<link rel="stylesheet" href="css\/flexslider.css">$/;"	function	line:40
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<link rel="stylesheet" href="css\/style.css">$/;"	function	line:42
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<link rel="stylesheet" href="css_blog\/animate.css">$/;"	function	line:44
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<link rel="stylesheet" href="css_blog\/icomoon.css">$/;"	function	line:46
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<link rel="stylesheet" href="css_blog\/bootstrap.css">$/;"	function	line:48
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<link rel="stylesheet" href="css_blog\/flexslider.css">$/;"	function	line:50
+link	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<link rel="stylesheet" href="css_blog\/style.css">$/;"	function	line:52
+script	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<script src="js\/modernizr-2.6.2.min.js"><\/script>$/;"	function	line:55
+script	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<script src="js\/respond.min.js"><\/script>$/;"	function	line:58
+body	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<body>$/;"	function	line:63
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<div class="gtco-loader"><\/div>$/;"	function	line:64
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<div id="page">$/;"	function	line:65
+nav	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<nav class="gtco-nav" role="navigation">$/;"	function	line:66
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^		<div class="container">$/;"	function	line:67
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^			<div class="row">$/;"	function	line:68
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="col-sm-2 col-xs-12">$/;"	function	line:69
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<div id="gtco-logo"><a href="index.html">Jimbe<\/div>$/;"	function	line:70
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="col-xs-10 text-right menu-1 main-nav">$/;"	function	line:72
+ul	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<ul>$/;"	function	line:73
+li	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<li class="active"><a href="index.html" data-nav-section="home">Home<\/a><\/li>$/;"	function	line:74
+li	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<li><a href="#" data-nav-section="blog">Blog<\/a><\/li>$/;"	function	line:75
+li	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<li><a href="#" data-nav-section="skills">Skills<\/a><\/li>$/;"	function	line:76
+li	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<li><a href="#" data-nav-section="about">About<\/a><\/li>$/;"	function	line:77
+section	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<section id="gtco-hero" class="gtco-cover" style="background-image: url(images\/IMG_7182.JPG);"  data-section="home"  data-stellar-background-ratio="0.5">$/;"	function	line:88
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^		<div class="overlay"><\/div>$/;"	function	line:89
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^		<div class="container">$/;"	function	line:90
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^			<div class="row">$/;"	function	line:91
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="col-md-12 col-md-offset-0 text-center">$/;"	function	line:92
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<div class="display-t">$/;"	function	line:93
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="display-tc">$/;"	function	line:94
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<h1 class="animate-box" data-animate-effect="fadeIn">Creation makes the world well.<\/h1>$/;"	function	line:95
+section	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<section id="gtco-about">$/;"	function	line:104
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^		<div class="container">$/;"	function	line:105
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^			<div class="row row-pb-md">$/;"	function	line:106
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="text-center col-md-8 col-md-offset-2 animate-box" data-animate-effect="fadeIn">$/;"	function	line:107
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<h1>ようこそ<br>Jimbeのページへ！<\/h1>$/;"	function	line:108
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<p class="sub">ここでは主にプログラミングや技術関連の記事やコーディング技術、webアプリの公開などを行います。<\/p>$/;"	function	line:109
+section	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^		<section id="gtco-blog" data-section="blog">$/;"	function	line:116
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^			<div class="container">$/;"	function	line:117
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="row row-pb-md">$/;"	function	line:118
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">$/;"	function	line:119
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<h1>Blog<\/h1>$/;"	function	line:120
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<p class="sub">日々の事柄や技術的なメモなどブログ形式で更新していきます<\/p>$/;"	function	line:121
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="col-md-3 col-sm-6 col-padding animate-box" data-animate-effect="fadeInLeft">$/;"	function	line:125
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<div class="blog-entry">$/;"	function	line:126
+a	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<a href="#" class="blog-img"><img src="images\/IMG_8970.JPG" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"><\/a>$/;"	function	line:127
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="desc">$/;"	function	line:128
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<h3><a href="#">はじめまして<\/a><\/h3>$/;"	function	line:129
+span	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<span><small>甚平<\/small> \/ <small>Introduction<\/small> \/ <small> <i class="icon-comment"><\/i><\/small><\/span>$/;"	function	line:130
+a	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<a href="#" class="read-more">続きはこちら<i class="icon-chevron-right"><\/i><\/a>$/;"	function	line:132
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<div class="blog-entry">$/;"	function	line:137
+a	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<a href="#" class="blog-img"><img src="images_blog\/img-3.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"><\/a>$/;"	function	line:138
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="desc">$/;"	function	line:139
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<h3><a href="#">Inspirational Website<\/a><\/h3>$/;"	function	line:140
+span	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<span><small>by Admin <\/small> \/ <small> Web Design <\/small> \/ <small> <i class="icon-comment"><\/i> 14<\/small><\/span>$/;"	function	line:141
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<p>Design must be functional and functionality must be translated into visual aesthetics<\/p>$/;"	function	line:142
+a	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<a href="#" class="lead">Read More <i class="icon-arrow-right3"><\/i><\/a>$/;"	function	line:143
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<div class="blog-entry">$/;"	function	line:148
+a	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<a href="#" class="blog-img"><img src="images_blog\/img-4.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"><\/a>$/;"	function	line:149
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="desc">$/;"	function	line:150
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<h3><a href="#">Inspirational Website<\/a><\/h3>$/;"	function	line:151
+span	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<span><small>by Admin <\/small> \/ <small> Web Design <\/small> \/ <small> <i class="icon-comment"><\/i> 14<\/small><\/span>$/;"	function	line:152
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<p>Design must be functional and functionality must be translated into visual aesthetics<\/p>$/;"	function	line:153
+a	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<a href="#" class="lead">Read More <i class="icon-arrow-right3"><\/i><\/a>$/;"	function	line:154
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<div class="blog-entry">$/;"	function	line:159
+a	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<a href="#" class="blog-img"><img src="images_blog\/img-4.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"><\/a>$/;"	function	line:160
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="desc">$/;"	function	line:161
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<h3><a href="#">Inspirational Website<\/a><\/h3>$/;"	function	line:162
+span	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<span><small>by Admin <\/small> \/ <small> Web Design <\/small> \/ <small> <i class="icon-comment"><\/i> 14<\/small><\/span>$/;"	function	line:163
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<p>Design must be functional and functionality must be translated into visual aesthetics<\/p>$/;"	function	line:164
+a	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<a href="#" class="lead">Read More <i class="icon-arrow-right3"><\/i><\/a>$/;"	function	line:165
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<div class="col-md-6 col-md-pull-1 animate-box"  data-animate-effect="fadeInLeft">$/;"	function	line:173
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="img-shadow">$/;"	function	line:174
+img	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<img src="images\/img_team_2.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">$/;"	function	line:175
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<h2>Craig Campbell<\/h2>$/;"	function	line:179
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus aliquid maiores, voluptatum ex. Accusantium, eum distinctio laudantium. Perferendis dolor, corporis quasi? Tempore quod molestiae quis cumque pariatur dolore vel sit, fugit delectus quasi reprehenderit officia voluptate incidunt, culpa odit impedit qui dolorum fugiat. Quidem possimus reprehenderit, quae recusandae voluptatibus magnam!<\/p>$/;"	function	line:180
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<p>Ratione facilis quod laborum eaque illo dolore blanditiis nobis dicta voluptatem fugit optio, eveniet non dolor quia delectus, sint, dignissimos atque porro consequuntur unde. Soluta ex necessitatibus delectus saepe aliquam, culpa officiis doloremque, ipsa facere hic, voluptatem accusantium veniam, quasi! Explicabo accusantium sint, corporis consequuntur fugit ipsam, dolorum excepturi adipisci.<\/p>$/;"	function	line:181
+section	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^		<section id="gtco-skills" data-section="skills">$/;"	function	line:189
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^			<div class="container">$/;"	function	line:190
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="row row-pb-md">$/;"	function	line:191
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">$/;"	function	line:192
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<h1>Skills<\/h1>$/;"	function	line:193
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<p class="sub">今持っているスキルや興味のある分野については以下のようになっています。<\/p>$/;"	function	line:194
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="row">$/;"	function	line:198
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<div class="col-md-6">$/;"	function	line:199
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="gtco-practice-area-item animate-box">$/;"	function	line:200
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<div class="gtco-icon">$/;"	function	line:201
+img	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<img src="images\/front-end.png" alt="Free HTML5 Bootstrap Template by FreeHTML5.co" class="front">$/;"	function	line:202
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<div class="gtco-copy">$/;"	function	line:204
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<h3>HTML, CSS, bootstrap, javascript, PHP<\/h3>$/;"	function	line:205
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<p>このサイトは以上のフロントエンドの言語を使って作られています。静的サイトの製作実績あり。PHPでは電源やwifiで条件を絞ってカフェを探せる<a href="work\/index.php">WOKSPACE EXPLODER<\/a>を作りました(現在利用できません)<\/p>$/;"	function	line:206
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="gtco-practice-area-item animate-box">$/;"	function	line:210
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<div class="gtco-icon">$/;"	function	line:211
+img	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<img src="images\/React-native.png" alt="The logo for the React open source JavaScript library" class="react">$/;"	function	line:212
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<div class="gtco-copy">$/;"	function	line:214
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<h3>React Native<\/h3>$/;"	function	line:215
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<p>Facebook が開発したクロスプラットフォームアプリ開発用フレームワーク。クロスプラットフォーム( iOS \/ Android どちらでも動く)アプリを作るために学習。簡易ニュースアプリを作った。（未公開）<\/p>$/;"	function	line:216
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="gtco-practice-area-item animate-box">$/;"	function	line:220
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<div class="gtco-icon">$/;"	function	line:221
+img	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<img src="images\/noimage.png" alt="c languages" class="c">$/;"	function	line:222
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<div class="gtco-copy">$/;"	function	line:224
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<h3>C<\/h3>$/;"	function	line:225
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<p>コンパイル型の汎用プログラミング言語。大学3年まで演習や実験で使用。現在は全く使っていない。<\/p>$/;"	function	line:226
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<div class="col-md-6">$/;"	function	line:231
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="gtco-practice-area-item animate-box">$/;"	function	line:233
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<div class="gtco-icon">$/;"	function	line:234
+img	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<img src="images\/swift.png" alt="Swift" class="swift">$/;"	function	line:235
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<div class="gtco-copy">$/;"	function	line:237
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<h3>Swift<\/h3>$/;"	function	line:238
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<p>アップルのiOSおよびmacOS､Linuxで利用出来るプログラミング言語。appleユーザーとして作っておきたいと思い現在趣味で鋭意学習中。基礎は定着しているので1年で形にする。<\/p>$/;"	function	line:239
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="gtco-practice-area-item animate-box">$/;"	function	line:243
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<div class="gtco-icon">$/;"	function	line:244
+img	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<img src="images\/Python.png" alt="Python" class="python">$/;"	function	line:245
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<div class="gtco-copy">$/;"	function	line:247
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<h3>Python<\/h3>$/;"	function	line:248
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<p>最近注目されている言語。コードの書きやすさ、読みやすさが売り。研究で使用予定。<\/p>$/;"	function	line:249
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="gtco-practice-area-item animate-box">$/;"	function	line:253
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<div class="gtco-icon">$/;"	function	line:254
+img	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<img src="images\/scale.png" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">$/;"	function	line:255
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<div class="gtco-copy">$/;"	function	line:257
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<h3>Accident Law<\/h3>$/;"	function	line:258
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed scelerisque sapien. Sed sodales, libero non faucibus rutrum, purus tellus finibus diam, eget ornare tortor leo eget erat. <\/p>$/;"	function	line:259
+section	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<section id="gtco-about" data-section="about">$/;"	function	line:268
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^		<div class="container">$/;"	function	line:269
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^			<div class="row row-pb-md">$/;"	function	line:270
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">$/;"	function	line:271
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<h1>About<\/h1>$/;"	function	line:272
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<p class="sub"><\/p>$/;"	function	line:273
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^			<div class="row">$/;"	function	line:277
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="col-md-6 col-md-pull-1 col-xs-12 animate-box" data-animate-effect="fadeInLeft">$/;"	function	line:278
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<div class="img-shadow">$/;"	function	line:279
+img	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<img src="images\/profile.JPG" class="img-responsive" alt="profile_photo">$/;"	function	line:280
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="col-md-6 col-xs-12 animate-box" data-animate-effect="fadeInLeft">$/;"	function	line:283
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<p>ハンドルネーム<\/p>$/;"	function	line:285
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<h2 class="heading-colored">甚平<\/h2>$/;"	function	line:286
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<p>地方国立大学工学部情報工学科4年。2年間弓道部に所属の後、内閣府の「東南アジア青年の船」事業に参加。グローバルな視点や経験を積み、社会課題を解決できるエンジニアになりたい。その後にミャンマーに対しての関心を持ち日本ミャンマー学生会議IDFCの実行委員を通して、自分の知識を使って組織の業務効率化など創造から価値を生み出すことの楽しさを感じた。コミュニケーション×ITを実現するためこれからエンジニアとして活動していく。<\/p>$/;"	function	line:287
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^		<div class="container">$/;"	function	line:295
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^			<div class="row row-pb-md">$/;"	function	line:296
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="col-md-8 col-md-offset-2 heading animate-box" data-animate-effect="fadeIn">$/;"	function	line:297
+h	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<h1>Contact<\/h1>$/;"	function	line:298
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<p class="sub">Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.<\/p>$/;"	function	line:299
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<p class="subtle-text animate-box" data-animate-effect="fadeIn">Contact<\/p>$/;"	function	line:300
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^			<div class="row">$/;"	function	line:303
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="col-md-6 col-md-push-6 animate-box">$/;"	function	line:304
+form	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<form action="#">$/;"	function	line:305
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="form-group">$/;"	function	line:306
+label	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<label for="name" class="sr-only">Name<\/label>$/;"	function	line:307
+input	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<input type="text" class="form-control" placeholder="Name" id="name">$/;"	function	line:308
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="form-group">$/;"	function	line:310
+label	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<label for="email" class="sr-only">Email<\/label>$/;"	function	line:311
+input	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<input type="text" class="form-control" placeholder="Email" id="email">$/;"	function	line:312
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="form-group">$/;"	function	line:314
+label	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<label for="message" class="sr-only">Message<\/label>$/;"	function	line:315
+textarea	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<textarea name="message" id="message" class="form-control" cols="30" rows="7" placeholder="Message"><\/textarea>$/;"	function	line:316
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<div class="form-group">$/;"	function	line:318
+input	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<input type="submit" value="Send Message" class="btn btn-primary">$/;"	function	line:319
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="col-md-4 col-md-pull-6 animate-box">$/;"	function	line:323
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<div class="gtco-contact-info">$/;"	function	line:324
+ul	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<ul>$/;"	function	line:325
+li	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<li class="address">198 West 21th Street, Suite 721 New York NY 10016<\/li>$/;"	function	line:326
+li	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<li class="phone"><a href="tel:\/\/1235235598">+ 1235 2355 98<\/a><\/li>$/;"	function	line:327
+li	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<li class="email"><a href="mailto:info@yoursite.com">info@example.com<\/a><\/li>$/;"	function	line:328
+li	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<li class="url"><a href="#">http:\/\/example.com<\/a><\/li>$/;"	function	line:329
+footer	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<footer id="gtco-footer" role="contentinfo">$/;"	function	line:337
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^		<div class="container">$/;"	function	line:338
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^			<div class="row copyright">$/;"	function	line:340
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^				<div class="col-md-12">$/;"	function	line:341
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<p class="pull-left">$/;"	function	line:342
+small	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<small class="block">&copy; 2019 Jimbe All Rights Reserved.<\/small>$/;"	function	line:343
+p	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^					<p class="pull-right">$/;"	function	line:346
+ul	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^						<ul class="gtco-social-icons pull-right">$/;"	function	line:347
+li	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<li><a href="https:\/\/twitter.com\/webcreateit0823"><i class="icon-twitter"><\/i><\/a><\/li>$/;"	function	line:348
+li	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^							<li><a href="#"><i class="icon-dribbble"><\/i><\/a><\/li> -->$/;"	function	line:351
+div	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<div class="gototop js-top">$/;"	function	line:361
+a	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^		<a href="#" class="js-gotop"><i class="icon-arrow-up2"><\/i><\/a>$/;"	function	line:362
+script	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<script src="js\/jquery.min.js"><\/script>$/;"	function	line:366
+script	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<script src="js\/jquery.easing.1.3.js"><\/script>$/;"	function	line:368
+script	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<script src="js\/bootstrap.min.js"><\/script>$/;"	function	line:370
+script	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<script src="js\/jquery.waypoints.min.js"><\/script>$/;"	function	line:372
+script	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<script src="js\/jquery.stellar.min.js"><\/script>$/;"	function	line:374
+script	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<script src="js\/jquery.magnific-popup.min.js"><\/script>$/;"	function	line:376
+script	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<script src="js\/magnific-popup-options.js"><\/script>$/;"	function	line:377
+script	/Users/jinbei/Documents/GitHub/Jinbei823.github.io/index.html	/^	<script src="js\/main.js"><\/script>$/;"	function	line:379

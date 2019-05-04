@@ -504,9 +504,10 @@ h1, h2, h3, h4, h5, h6, figure {
 #gtco-about .img-shadow {
   position: relative;
   background: #7ED321;
-  width: 100%;
+  width: 60%;
   float: left;
   margin-bottom: 38px;
+  right: -30%;
 }
 #gtco-about .img-shadow img {
   position: relative;
