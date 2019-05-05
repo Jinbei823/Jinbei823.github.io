@@ -48,6 +48,7 @@ blockquote {
   font-size: 36px;
   font-weight: 700;
   margin-top: 60px;
+  border-bottom: solid 7px lightgreen;
 }
 
 .caption {
